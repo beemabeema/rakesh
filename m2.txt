@@ -1,0 +1,8 @@
+#!/bin/bash
+if [ balance  > 5000 ];
+then 
+echo “ credit interest ”
+else 
+echo “ debit penalty ”
+fi
+
